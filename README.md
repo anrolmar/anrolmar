@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/anrolmar"><img src="https://api.daily.dev/devcards/efad1b5093fe4bde8e96311bcd97c23d.png?r=fhh" width="400" alt="Angel Roldán Martinez's Dev Card"/></a>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Angel Roldán Martinez's Dev Card"/></a>
 <!--
 **anrolmar/anrolmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
